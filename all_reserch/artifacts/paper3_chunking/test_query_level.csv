@@ -1,0 +1,991 @@
+paper,phase,algorithm,feature_model,params,query_id,query_type,retrievable,top1,top3,mrr
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_04_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_04_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_04_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_05_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_05_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_05_q6,pronoun_audit,1.0,0.0,1.0,0.333333
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_06_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_06_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_06_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_07_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_07_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_07_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_08_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_08_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_08_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_09_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_09_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_09_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_10_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_10_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_10_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_10_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_10_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_11_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_11_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},doc_11_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_04_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_04_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_04_q6,pronoun_audit,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_05_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_05_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_05_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_06_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_06_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_06_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_07_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_07_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_07_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_08_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_08_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_08_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_09_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_09_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_09_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_10_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_10_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_10_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_10_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_10_q6,pronoun_audit,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_11_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_11_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},doc_11_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_04_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_04_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_04_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_05_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_05_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_05_q6,pronoun_audit,1.0,0.0,1.0,0.333333
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_06_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_06_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_06_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_07_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_07_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_07_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_08_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_08_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_08_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_09_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_09_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_09_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_10_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_10_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_10_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_10_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_10_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_11_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_11_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},doc_11_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_04_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_04_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_04_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_04_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_04_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_04_q6,pronoun_audit,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_05_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_06_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_07_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_08_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_09_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q4,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q5,adjacent_dependency,1.0,0.0,1.0,0.5
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_10_q6,pronoun_audit,1.0,0.0,1.0,0.5
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q2,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",doc_11_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_04_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_04_q2,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_04_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_05_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_05_q2,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_05_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_06_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_06_q2,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_06_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_07_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_07_q2,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_07_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_08_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_08_q2,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_08_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_09_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_09_q2,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_09_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_10_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_10_q2,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_10_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_10_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_10_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_11_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_11_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",doc_11_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_04_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_04_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_04_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_05_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_05_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_05_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_06_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_06_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_06_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_07_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_07_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_07_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_08_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_08_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_08_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_09_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_09_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_09_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_10_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_10_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_10_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_10_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_10_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_11_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_11_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},doc_11_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_04_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_04_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_04_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_05_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_05_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_05_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_06_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_06_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_06_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_07_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_07_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_07_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_08_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_08_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_08_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_09_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_09_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_09_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_10_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_10_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_10_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_10_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_10_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_11_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_11_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},doc_11_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_04_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_04_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_04_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_05_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_05_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_05_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_06_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_06_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_06_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_07_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_07_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_07_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_08_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_08_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_08_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_09_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_09_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_09_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_10_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_10_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_10_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_10_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_10_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_11_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_11_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},doc_11_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_04_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_04_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_04_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_04_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q2,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q4,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q4,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_04_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_04_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_04_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_04_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_05_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_06_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_07_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_08_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q2,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q4,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_09_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q4,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_10_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",doc_11_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_04_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_04_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_04_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_04_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_05_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_05_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_05_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_05_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_05_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_06_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_06_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_06_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_06_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_06_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_07_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_07_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_07_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_07_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_07_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_08_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_08_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_08_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_08_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_08_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_09_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_09_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_09_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_09_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_09_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_10_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_10_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_10_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_10_q4,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_10_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_10_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_11_q0,pronoun_launch,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_11_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_11_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_11_q5,adjacent_dependency,0.0,0.0,0.0,0.0
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",doc_11_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_04_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_04_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_04_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_05_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_05_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_05_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_06_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_06_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_06_q6,pronoun_audit,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_07_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_07_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_07_q6,pronoun_audit,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_08_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_08_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_08_q6,pronoun_audit,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_09_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_09_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_09_q6,pronoun_audit,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_10_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_10_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_10_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_10_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_10_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_11_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_11_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},doc_11_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_04_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_04_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_04_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_05_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_05_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_05_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_06_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_06_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_06_q6,pronoun_audit,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_07_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_07_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_07_q6,pronoun_audit,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_08_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_08_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_08_q6,pronoun_audit,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_09_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_09_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_09_q6,pronoun_audit,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_10_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_10_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_10_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_10_q5,adjacent_dependency,1.0,0.0,1.0,0.333333
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_10_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_11_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_11_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},doc_11_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_04_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_04_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_04_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_04_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_05_q1,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_05_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_05_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_05_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_06_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_06_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_06_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_06_q6,pronoun_audit,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_07_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_07_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_07_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_07_q6,pronoun_audit,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_08_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_08_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_08_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_08_q6,pronoun_audit,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_09_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_09_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_09_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_09_q6,pronoun_audit,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_10_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_10_q2,single_fact,1.0,0.0,1.0,0.5
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_10_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_10_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_10_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_10_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_11_q1,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_11_q2,single_fact,1.0,1.0,1.0,1.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_11_q3,coreference_long,0.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},doc_11_q6,pronoun_audit,0.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_04_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_04_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_04_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_04_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_05_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_05_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_05_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_05_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_06_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_06_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_06_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_06_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_07_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_07_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_07_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_07_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_08_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_08_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_08_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_08_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_09_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_09_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_09_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_09_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_10_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_10_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_10_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_10_q4,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_10_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_10_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_11_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_11_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_11_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,word_tfidf,{'hops': 1},doc_11_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_04_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_04_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_04_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_04_q4,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_04_q6,pronoun_audit,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_05_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_05_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_05_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_05_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_06_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_06_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_06_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_06_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_07_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_07_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_07_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_07_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_08_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_08_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_08_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_08_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_09_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_09_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_09_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_09_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_10_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_10_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_10_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_10_q4,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_10_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_10_q6,pronoun_audit,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_11_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_11_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_11_q3,coreference_long,1.0,0.0,1.0,0.5
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,char_tfidf,{'hops': 1},doc_11_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_04_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_04_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_04_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,lsa,{'hops': 1},doc_04_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_04_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_04_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_05_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_05_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_05_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_05_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,lsa,{'hops': 1},doc_05_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_05_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_05_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_06_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_06_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,lsa,{'hops': 1},doc_06_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_06_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,lsa,{'hops': 1},doc_06_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_06_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_06_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_07_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_07_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_07_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_07_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,lsa,{'hops': 1},doc_07_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_07_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_07_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_08_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_08_q1,single_fact,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,lsa,{'hops': 1},doc_08_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_08_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,lsa,{'hops': 1},doc_08_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_08_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_08_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_09_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_09_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_09_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_09_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,lsa,{'hops': 1},doc_09_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_09_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_09_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_10_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_10_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_10_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_10_q3,coreference_long,1.0,0.0,1.0,0.333333
+paper3,test,graph_rag,lsa,{'hops': 1},doc_10_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_10_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_10_q6,pronoun_audit,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_11_q0,pronoun_launch,1.0,1.0,1.0,1.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_11_q1,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_11_q2,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_11_q3,coreference_long,1.0,0.0,1.0,0.5
+paper3,test,graph_rag,lsa,{'hops': 1},doc_11_q4,single_fact,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_11_q5,adjacent_dependency,1.0,0.0,0.0,0.0
+paper3,test,graph_rag,lsa,{'hops': 1},doc_11_q6,pronoun_audit,1.0,0.0,0.0,0.0

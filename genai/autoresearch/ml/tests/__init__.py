@@ -1,0 +1,1 @@
+"""Smoke tests for the lightweight ML benchmark suite."""

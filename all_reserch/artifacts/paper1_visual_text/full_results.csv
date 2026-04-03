@@ -1,0 +1,201 @@
+paper,config_id,algorithm,phrase,prediction,cer,wer,exact_match,confidence,reward_score,runtime_ms
+paper1,baseline_ds6_noise006,baseline_texture,LAUNCH TUESDAY, -          - ,0.928571,1.0,0,0.042991,,4.7224
+paper1,baseline_ds6_noise006,baseline_texture,BIO SENSOR 7,      -     ,0.833333,1.0,0,0.045597,,6.6432
+paper1,baseline_ds6_noise006,baseline_texture,NOVA LAB,   -    ,0.875,1.0,0,0.040104,,3.0119
+paper1,baseline_ds6_noise006,baseline_texture,VISION STACK,         - .,0.916667,1.0,0,0.034933,,3.2657
+paper1,baseline_ds6_noise006,baseline_texture,CLIMATE REPORT,   --         ,0.928571,1.0,0,0.041157,,3.1228
+paper1,baseline_ds6_noise006,baseline_texture,ROBOTICS REVIEW,              .,0.933333,1.0,0,0.036201,,5.5073
+paper1,baseline_ds6_noise006,baseline_texture,EDGE CACHE,          ,0.9,1.0,0,0.052666,,3.1933
+paper1,baseline_ds6_noise006,baseline_texture,GRAPH MEMORY,  -   - -  .,0.916667,2.0,0,0.032216,,3.0761
+paper1,baseline_ds6_noise006,baseline_texture,CHUNKING STUDY,    -        -,0.928571,1.0,0,0.040524,,4.0634
+paper1,baseline_ds6_noise006,baseline_texture,OCR REWARD LOOP,"      ,-       ",0.866667,1.0,0,0.048191,,3.2865
+paper1,baseline_ds6_noise006,baseline_texture,GLYPH CONTROL,  .          ,0.923077,1.0,0,0.050578,,3.1376
+paper1,baseline_ds6_noise006,baseline_texture,TEXT DIFFUSER,  .          ,0.923077,1.0,0,0.036179,,3.0236
+paper1,baseline_ds6_noise006,baseline_texture,MARIO BENCH,--      -  ,0.909091,1.0,0,0.035861,,4.079
+paper1,baseline_ds6_noise006,baseline_texture,WORD ERROR RATE,.              ,0.866667,1.0,0,0.038178,,3.3565
+paper1,baseline_ds6_noise006,baseline_texture,CHAR ERROR RATE,  -            ,0.866667,1.0,0,0.037276,,4.9752
+paper1,baseline_ds6_noise006,baseline_texture,LAYOUT PRIOR,  .         ,0.916667,1.0,0,0.041904,,3.4273
+paper1,baseline_ds6_noise006,baseline_texture,BYTE LEVEL TOKEN, .           .  ,0.875,1.0,0,0.04076,,4.9908
+paper1,baseline_ds6_noise006,baseline_texture,HIGH FIDELITY,            .,0.923077,1.0,0,0.039876,,3.7905
+paper1,baseline_ds6_noise006,baseline_texture,LATENT NOISE,    -       ,0.916667,1.0,0,0.034575,,2.9242
+paper1,baseline_ds6_noise006,baseline_texture,CURATED DATASET,           -   ,0.933333,1.0,0,0.036487,,4.2998
+paper1,baseline_ds8_noise010,baseline_texture,LAUNCH TUESDAY,              ,0.928571,1.0,0,0.039934,,4.8283
+paper1,baseline_ds8_noise010,baseline_texture,BIO SENSOR 7,            ,0.833333,1.0,0,0.046299,,3.8003
+paper1,baseline_ds8_noise010,baseline_texture,NOVA LAB,        ,0.875,1.0,0,0.032792,,3.4506
+paper1,baseline_ds8_noise010,baseline_texture,VISION STACK,           -,0.916667,1.0,0,0.040385,,4.0346
+paper1,baseline_ds8_noise010,baseline_texture,CLIMATE REPORT,   --         ,0.928571,1.0,0,0.040472,,3.4438
+paper1,baseline_ds8_noise010,baseline_texture,ROBOTICS REVIEW,              .,0.933333,1.0,0,0.041963,,12.8786
+paper1,baseline_ds8_noise010,baseline_texture,EDGE CACHE,      -   ,0.9,1.0,0,0.045585,,2.5236
+paper1,baseline_ds8_noise010,baseline_texture,GRAPH MEMORY,      - -   ,0.916667,1.0,0,0.030831,,4.3018
+paper1,baseline_ds8_noise010,baseline_texture,CHUNKING STUDY,    .         ,0.928571,1.0,0,0.043164,,3.6859
+paper1,baseline_ds8_noise010,baseline_texture,OCR REWARD LOOP,      .        ,0.866667,1.0,0,0.048926,,3.1332
+paper1,baseline_ds8_noise010,baseline_texture,GLYPH CONTROL,             ,0.923077,1.0,0,0.050986,,3.4597
+paper1,baseline_ds8_noise010,baseline_texture,TEXT DIFFUSER,             ,0.923077,1.0,0,0.041918,,4.0288
+paper1,baseline_ds8_noise010,baseline_texture,MARIO BENCH,-     -    ,0.909091,1.0,0,0.033908,,3.9187
+paper1,baseline_ds8_noise010,baseline_texture,WORD ERROR RATE,.              ,0.866667,1.0,0,0.034229,,3.8932
+paper1,baseline_ds8_noise010,baseline_texture,CHAR ERROR RATE,  -            ,0.866667,1.0,0,0.039909,,3.864
+paper1,baseline_ds8_noise010,baseline_texture,LAYOUT PRIOR,            ,0.916667,1.0,0,0.041892,,3.4874
+paper1,baseline_ds8_noise010,baseline_texture,BYTE LEVEL TOKEN,                ,0.875,1.0,0,0.043875,,3.5218
+paper1,baseline_ds8_noise010,baseline_texture,HIGH FIDELITY,             ,0.923077,1.0,0,0.043784,,3.4266
+paper1,baseline_ds8_noise010,baseline_texture,LATENT NOISE, -          ,0.916667,1.0,0,0.042204,,2.8234
+paper1,baseline_ds8_noise010,baseline_texture,CURATED DATASET,               ,0.933333,1.0,0,0.041414,,5.6485
+paper1,baseline_ds10_noise012,baseline_texture,LAUNCH TUESDAY,              ,0.928571,1.0,0,0.045149,,3.8124
+paper1,baseline_ds10_noise012,baseline_texture,BIO SENSOR 7,            ,0.833333,1.0,0,0.047608,,2.7815
+paper1,baseline_ds10_noise012,baseline_texture,NOVA LAB,        ,0.875,1.0,0,0.041109,,2.7675
+paper1,baseline_ds10_noise012,baseline_texture,VISION STACK,           -,0.916667,1.0,0,0.041869,,4.8385
+paper1,baseline_ds10_noise012,baseline_texture,CLIMATE REPORT,   -          ,0.928571,1.0,0,0.040803,,3.1321
+paper1,baseline_ds10_noise012,baseline_texture,ROBOTICS REVIEW,               ,0.933333,1.0,0,0.042732,,3.1481
+paper1,baseline_ds10_noise012,baseline_texture,EDGE CACHE,          ,0.9,1.0,0,0.049264,,4.199
+paper1,baseline_ds10_noise012,baseline_texture,GRAPH MEMORY,      -     ,0.916667,1.0,0,0.031852,,2.8767
+paper1,baseline_ds10_noise012,baseline_texture,CHUNKING STUDY,              ,0.928571,1.0,0,0.041268,,3.9283
+paper1,baseline_ds10_noise012,baseline_texture,OCR REWARD LOOP,               ,0.866667,1.0,0,0.041615,,3.7743
+paper1,baseline_ds10_noise012,baseline_texture,GLYPH CONTROL,             ,0.923077,1.0,0,0.048011,,4.4741
+paper1,baseline_ds10_noise012,baseline_texture,TEXT DIFFUSER,             ,0.923077,1.0,0,0.041754,,3.0292
+paper1,baseline_ds10_noise012,baseline_texture,MARIO BENCH,           ,0.909091,1.0,0,0.032259,,2.7936
+paper1,baseline_ds10_noise012,baseline_texture,WORD ERROR RATE,               ,0.866667,1.0,0,0.035,,4.3565
+paper1,baseline_ds10_noise012,baseline_texture,CHAR ERROR RATE,               ,0.866667,1.0,0,0.040299,,3.6511
+paper1,baseline_ds10_noise012,baseline_texture,LAYOUT PRIOR,            ,0.916667,1.0,0,0.047589,,3.0689
+paper1,baseline_ds10_noise012,baseline_texture,BYTE LEVEL TOKEN,                ,0.875,1.0,0,0.045383,,3.8444
+paper1,baseline_ds10_noise012,baseline_texture,HIGH FIDELITY,             ,0.923077,1.0,0,0.046162,,4.2895
+paper1,baseline_ds10_noise012,baseline_texture,LATENT NOISE,            ,0.916667,1.0,0,0.043359,,2.867
+paper1,baseline_ds10_noise012,baseline_texture,CURATED DATASET,               ,0.933333,1.0,0,0.036718,,3.6432
+paper1,layout_mild,layout_guided,LAUNCH TUESDAY,LAUNCH TUESDAY,0.0,0.0,1,0.272045,,4.5827
+paper1,layout_mild,layout_guided,BIO SENSOR 7,BIO SENSOR 7,0.0,0.0,1,0.20898,,5.0506
+paper1,layout_mild,layout_guided,NOVA LAB,NOVA LAB,0.0,0.0,1,0.304443,,9.7142
+paper1,layout_mild,layout_guided,VISION STACK,VISION STACK,0.0,0.0,1,0.262969,,4.5695
+paper1,layout_mild,layout_guided,CLIMATE REPORT,CLIMATE REPORT,0.0,0.0,1,0.228641,,6.1997
+paper1,layout_mild,layout_guided,ROBOTICS REVIEW,ROBOTICS REVIEW,0.0,0.0,1,0.223946,,6.0646
+paper1,layout_mild,layout_guided,EDGE CACHE,EDGE CACHE,0.0,0.0,1,0.189765,,3.9173
+paper1,layout_mild,layout_guided,GRAPH MEMORY,GRAPH MEMORY,0.0,0.0,1,0.262049,,3.8443
+paper1,layout_mild,layout_guided,CHUNKING STUDY,CHUNKING STUDY,0.0,0.0,1,0.231271,,5.0159
+paper1,layout_mild,layout_guided,OCR REWARD LOOP,OCR REWARD LOOP,0.0,0.0,1,0.229397,,5.6675
+paper1,layout_mild,layout_guided,GLYPH CONTROL,GLYPH CONTROL,0.0,0.0,1,0.238691,,3.8696
+paper1,layout_mild,layout_guided,TEXT DIFFUSER,TEXT DIFFUSER,0.0,0.0,1,0.205587,,5.2804
+paper1,layout_mild,layout_guided,MARIO BENCH,MARIO BENCH,0.0,0.0,1,0.225522,,5.6736
+paper1,layout_mild,layout_guided,WORD ERROR RATE,WORD ERROR RATE,0.0,0.0,1,0.238114,,5.0242
+paper1,layout_mild,layout_guided,CHAR ERROR RATE,CHAR ERROR RATE,0.0,0.0,1,0.237209,,4.3353
+paper1,layout_mild,layout_guided,LAYOUT PRIOR,LAYOUT PRIOR,0.0,0.0,1,0.245823,,4.3591
+paper1,layout_mild,layout_guided,BYTE LEVEL TOKEN,BYTE LEVEL TOKEN,0.0,0.0,1,0.242892,,5.8152
+paper1,layout_mild,layout_guided,HIGH FIDELITY,HIGH FIDELITY,0.0,0.0,1,0.199106,,4.2061
+paper1,layout_mild,layout_guided,LATENT NOISE,LATENT NOISE,0.0,0.0,1,0.207409,,3.7563
+paper1,layout_mild,layout_guided,CURATED DATASET,CURATED DATASET,0.0,0.0,1,0.271136,,5.4253
+paper1,layout_balanced,layout_guided,LAUNCH TUESDAY,LAUNCH TUESDAY,0.0,0.0,1,0.228075,,4.5234
+paper1,layout_balanced,layout_guided,BIO SENSOR 7,BIO SENSOR 7,0.0,0.0,1,0.154173,,7.073
+paper1,layout_balanced,layout_guided,NOVA LAB,NOVA LAB,0.0,0.0,1,0.248559,,2.8696
+paper1,layout_balanced,layout_guided,VISION STACK,VISION STACK,0.0,0.0,1,0.197643,,4.6096
+paper1,layout_balanced,layout_guided,CLIMATE REPORT,CLIMATE REPORT,0.0,0.0,1,0.177014,,4.6219
+paper1,layout_balanced,layout_guided,ROBOTICS REVIEW,ROBOTICS REVIEW,0.0,0.0,1,0.171452,,4.8712
+paper1,layout_balanced,layout_guided,EDGE CACHE,EDGE CACHE,0.0,0.0,1,0.169126,,4.0832
+paper1,layout_balanced,layout_guided,GRAPH MEMORY,GRAPH MEMORY,0.0,0.0,1,0.218945,,3.941
+paper1,layout_balanced,layout_guided,CHUNKING STUDY,CHUNKING STUDY,0.0,0.0,1,0.196822,,4.8639
+paper1,layout_balanced,layout_guided,OCR REWARD LOOP,OCR REWARD LOOP,0.0,0.0,1,0.204175,,5.588
+paper1,layout_balanced,layout_guided,GLYPH CONTROL,GLYPH CONTROL,0.0,0.0,1,0.212453,,4.5465
+paper1,layout_balanced,layout_guided,TEXT DIFFUSER,TEXT DIFFUSER,0.0,0.0,1,0.169641,,3.843
+paper1,layout_balanced,layout_guided,MARIO BENCH,MARIO BENCH,0.0,0.0,1,0.196554,,5.1775
+paper1,layout_balanced,layout_guided,WORD ERROR RATE,WORD ERROR RATE,0.0,0.0,1,0.217231,,5.1102
+paper1,layout_balanced,layout_guided,CHAR ERROR RATE,CHAR ERROR RATE,0.0,0.0,1,0.204388,,4.1919
+paper1,layout_balanced,layout_guided,LAYOUT PRIOR,LAYOUT PRIOR,0.0,0.0,1,0.216324,,3.7765
+paper1,layout_balanced,layout_guided,BYTE LEVEL TOKEN,BYTE LEVEL TOKEN,0.0,0.0,1,0.199925,,4.9143
+paper1,layout_balanced,layout_guided,HIGH FIDELITY,HIGH FIDELITY,0.0,0.0,1,0.162539,,4.5064
+paper1,layout_balanced,layout_guided,LATENT NOISE,LATENT NOISE,0.0,0.0,1,0.190564,,3.424
+paper1,layout_balanced,layout_guided,CURATED DATASET,CURATED DATASET,0.0,0.0,1,0.217482,,4.4178
+paper1,layout_robust,layout_guided,LAUNCH TUESDAY,LAUNCH TUESDAY,0.0,0.0,1,0.189574,,4.5508
+paper1,layout_robust,layout_guided,BIO SENSOR 7,BIO SENSOR 7,0.0,0.0,1,0.119515,,4.235
+paper1,layout_robust,layout_guided,NOVA LAB,NOVA LAB,0.0,0.0,1,0.206714,,3.0302
+paper1,layout_robust,layout_guided,VISION STACK,VISION STACK,0.0,0.0,1,0.173798,,4.1572
+paper1,layout_robust,layout_guided,CLIMATE REPORT,CLIMATE REPORT,0.0,0.0,1,0.167601,,5.1076
+paper1,layout_robust,layout_guided,ROBOTICS REVIEW,ROBOTICS REVIEW,0.0,0.0,1,0.154413,,4.1648
+paper1,layout_robust,layout_guided,EDGE CACHE,EDGE CACHE,0.0,0.0,1,0.152592,,3.1584
+paper1,layout_robust,layout_guided,GRAPH MEMORY,GRAPH MEMORY,0.0,0.0,1,0.172025,,6.5542
+paper1,layout_robust,layout_guided,CHUNKING STUDY,CHUNKING STUDY,0.0,0.0,1,0.171831,,4.5549
+paper1,layout_robust,layout_guided,OCR REWARD LOOP,OCR REWARD LOOP,0.0,0.0,1,0.164329,,4.3847
+paper1,layout_robust,layout_guided,GLYPH CONTROL,GLYPH CONTROL,0.0,0.0,1,0.172761,,4.6355
+paper1,layout_robust,layout_guided,TEXT DIFFUSER,TEXT DIFFUSER,0.0,0.0,1,0.157377,,4.6992
+paper1,layout_robust,layout_guided,MARIO BENCH,MARIO BENCH,0.0,0.0,1,0.15042,,3.6491
+paper1,layout_robust,layout_guided,WORD ERROR RATE,WORD ERROR RATE,0.0,0.0,1,0.150642,,4.9891
+paper1,layout_robust,layout_guided,CHAR ERROR RATE,CHAR ERROR RATE,0.0,0.0,1,0.166768,,4.2578
+paper1,layout_robust,layout_guided,LAYOUT PRIOR,LAYOUT PRIOR,0.0,0.0,1,0.16627,,4.0242
+paper1,layout_robust,layout_guided,BYTE LEVEL TOKEN,BYTE LEVEL TOKEN,0.0,0.0,1,0.162707,,6.0669
+paper1,layout_robust,layout_guided,HIGH FIDELITY,HIGH FIDELITY,0.0,0.0,1,0.143334,,5.5695
+paper1,layout_robust,layout_guided,LATENT NOISE,LATENT NOISE,0.0,0.0,1,0.136549,,3.6189
+paper1,layout_robust,layout_guided,CURATED DATASET,CURATED DATASET,0.0,0.0,1,0.178001,,4.5108
+paper1,charaware_x3,char_aware,LAUNCH TUESDAY,LAUNCH TUESDAY,0.0,0.0,1,0.338228,,5.6376
+paper1,charaware_x3,char_aware,BIO SENSOR 7,BIO SENSOR 7,0.0,0.0,1,0.238437,,5.7652
+paper1,charaware_x3,char_aware,NOVA LAB,NOVA LAB,0.0,0.0,1,0.374729,,3.8885
+paper1,charaware_x3,char_aware,VISION STACK,VISION STACK,0.0,0.0,1,0.329608,,3.8973
+paper1,charaware_x3,char_aware,CLIMATE REPORT,CLIMATE REPORT,0.0,0.0,1,0.311066,,5.71
+paper1,charaware_x3,char_aware,ROBOTICS REVIEW,ROBOTICS REVIEW,0.0,0.0,1,0.299607,,5.9995
+paper1,charaware_x3,char_aware,EDGE CACHE,EDGE CACHE,0.0,0.0,1,0.289588,,3.5994
+paper1,charaware_x3,char_aware,GRAPH MEMORY,GRAPH MEMORY,0.0,0.0,1,0.379687,,4.0576
+paper1,charaware_x3,char_aware,CHUNKING STUDY,CHUNKING STUDY,0.0,0.0,1,0.314215,,5.5817
+paper1,charaware_x3,char_aware,OCR REWARD LOOP,OCR REWARD LOOP,0.0,0.0,1,0.315336,,6.2913
+paper1,charaware_x3,char_aware,GLYPH CONTROL,GLYPH CONTROL,0.0,0.0,1,0.289638,,3.8791
+paper1,charaware_x3,char_aware,TEXT DIFFUSER,TEXT DIFFUSER,0.0,0.0,1,0.278039,,3.8863
+paper1,charaware_x3,char_aware,MARIO BENCH,MARIO BENCH,0.0,0.0,1,0.319873,,4.2073
+paper1,charaware_x3,char_aware,WORD ERROR RATE,WORD ERROR RATE,0.0,0.0,1,0.324009,,4.739
+paper1,charaware_x3,char_aware,CHAR ERROR RATE,CHAR ERROR RATE,0.0,0.0,1,0.331479,,4.2769
+paper1,charaware_x3,char_aware,LAYOUT PRIOR,LAYOUT PRIOR,0.0,0.0,1,0.306327,,3.9546
+paper1,charaware_x3,char_aware,BYTE LEVEL TOKEN,BYTE LEVEL TOKEN,0.0,0.0,1,0.284298,,5.4665
+paper1,charaware_x3,char_aware,HIGH FIDELITY,HIGH FIDELITY,0.0,0.0,1,0.268552,,3.737
+paper1,charaware_x3,char_aware,LATENT NOISE,LATENT NOISE,0.0,0.0,1,0.265538,,3.6565
+paper1,charaware_x3,char_aware,CURATED DATASET,CURATED DATASET,0.0,0.0,1,0.324563,,5.0705
+paper1,charaware_x4,char_aware,LAUNCH TUESDAY,LAUNCH TUESDAY,0.0,0.0,1,0.354162,,7.0089
+paper1,charaware_x4,char_aware,BIO SENSOR 7,BIO SENSOR 7,0.0,0.0,1,0.269343,,4.8717
+paper1,charaware_x4,char_aware,NOVA LAB,NOVA LAB,0.0,0.0,1,0.389712,,3.0636
+paper1,charaware_x4,char_aware,VISION STACK,VISION STACK,0.0,0.0,1,0.355008,,5.4848
+paper1,charaware_x4,char_aware,CLIMATE REPORT,CLIMATE REPORT,0.0,0.0,1,0.3297,,5.1294
+paper1,charaware_x4,char_aware,ROBOTICS REVIEW,ROBOTICS REVIEW,0.0,0.0,1,0.325489,,5.4889
+paper1,charaware_x4,char_aware,EDGE CACHE,EDGE CACHE,0.0,0.0,1,0.301756,,3.5716
+paper1,charaware_x4,char_aware,GRAPH MEMORY,GRAPH MEMORY,0.0,0.0,1,0.410667,,4.7479
+paper1,charaware_x4,char_aware,CHUNKING STUDY,CHUNKING STUDY,0.0,0.0,1,0.335224,,4.6549
+paper1,charaware_x4,char_aware,OCR REWARD LOOP,OCR REWARD LOOP,0.0,0.0,1,0.341044,,4.8922
+paper1,charaware_x4,char_aware,GLYPH CONTROL,GLYPH CONTROL,0.0,0.0,1,0.306928,,5.5011
+paper1,charaware_x4,char_aware,TEXT DIFFUSER,TEXT DIFFUSER,0.0,0.0,1,0.29457,,4.2458
+paper1,charaware_x4,char_aware,MARIO BENCH,MARIO BENCH,0.0,0.0,1,0.335697,,3.9893
+paper1,charaware_x4,char_aware,WORD ERROR RATE,WORD ERROR RATE,0.0,0.0,1,0.359857,,5.7069
+paper1,charaware_x4,char_aware,CHAR ERROR RATE,CHAR ERROR RATE,0.0,0.0,1,0.363674,,5.5678
+paper1,charaware_x4,char_aware,LAYOUT PRIOR,LAYOUT PRIOR,0.0,0.0,1,0.330422,,4.6469
+paper1,charaware_x4,char_aware,BYTE LEVEL TOKEN,BYTE LEVEL TOKEN,0.0,0.0,1,0.296204,,5.1665
+paper1,charaware_x4,char_aware,HIGH FIDELITY,HIGH FIDELITY,0.0,0.0,1,0.277396,,4.7555
+paper1,charaware_x4,char_aware,LATENT NOISE,LATENT NOISE,0.0,0.0,1,0.280621,,4.8379
+paper1,charaware_x4,char_aware,CURATED DATASET,CURATED DATASET,0.0,0.0,1,0.346258,,5.1159
+paper1,ocrreward_c3,ocr_rewarded,LAUNCH TUESDAY,LAUNCH TUESDAY,0.0,0.0,1,0.318344,1.031834,36.6155
+paper1,ocrreward_c3,ocr_rewarded,BIO SENSOR 7,BIO SENSOR 7,0.0,0.0,1,0.229578,1.022958,32.528
+paper1,ocrreward_c3,ocr_rewarded,NOVA LAB,NOVA LAB,0.0,0.0,1,0.36251,1.036251,28.2614
+paper1,ocrreward_c3,ocr_rewarded,VISION STACK,VISION STACK,0.0,0.0,1,0.297489,1.029749,37.7856
+paper1,ocrreward_c3,ocr_rewarded,CLIMATE REPORT,CLIMATE REPORT,0.0,0.0,1,0.271852,1.027185,37.9331
+paper1,ocrreward_c3,ocr_rewarded,ROBOTICS REVIEW,ROBOTICS REVIEW,0.0,0.0,1,0.277207,1.027721,43.2401
+paper1,ocrreward_c3,ocr_rewarded,EDGE CACHE,EDGE CACHE,0.0,0.0,1,0.255929,1.025593,36.0399
+paper1,ocrreward_c3,ocr_rewarded,GRAPH MEMORY,GRAPH MEMORY,0.0,0.0,1,0.358617,1.035862,35.3742
+paper1,ocrreward_c3,ocr_rewarded,CHUNKING STUDY,CHUNKING STUDY,0.0,0.0,1,0.27321,1.027321,38.3776
+paper1,ocrreward_c3,ocr_rewarded,OCR REWARD LOOP,OCR REWARD LOOP,0.0,0.0,1,0.282,1.0282,49.3144
+paper1,ocrreward_c3,ocr_rewarded,GLYPH CONTROL,GLYPH CONTROL,0.0,0.0,1,0.287735,1.028774,36.8357
+paper1,ocrreward_c3,ocr_rewarded,TEXT DIFFUSER,TEXT DIFFUSER,0.0,0.0,1,0.2841,1.02841,39.1391
+paper1,ocrreward_c3,ocr_rewarded,MARIO BENCH,MARIO BENCH,0.0,0.0,1,0.313664,1.031366,32.6904
+paper1,ocrreward_c3,ocr_rewarded,WORD ERROR RATE,WORD ERROR RATE,0.0,0.0,1,0.272454,1.027245,42.2079
+paper1,ocrreward_c3,ocr_rewarded,CHAR ERROR RATE,CHAR ERROR RATE,0.0,0.0,1,0.288595,1.02886,43.3073
+paper1,ocrreward_c3,ocr_rewarded,LAYOUT PRIOR,LAYOUT PRIOR,0.0,0.0,1,0.282057,1.028206,32.1498
+paper1,ocrreward_c3,ocr_rewarded,BYTE LEVEL TOKEN,BYTE LEVEL TOKEN,0.0,0.0,1,0.268709,1.026871,43.2814
+paper1,ocrreward_c3,ocr_rewarded,HIGH FIDELITY,HIGH FIDELITY,0.0,0.0,1,0.255431,1.025543,76.1744
+paper1,ocrreward_c3,ocr_rewarded,LATENT NOISE,LATENT NOISE,0.0,0.0,1,0.236981,1.023698,99.0689
+paper1,ocrreward_c3,ocr_rewarded,CURATED DATASET,CURATED DATASET,0.0,0.0,1,0.2798,1.02798,56.2245
+paper1,ocrreward_c6,ocr_rewarded,LAUNCH TUESDAY,LAUNCH TUESDAY,0.0,0.0,1,0.333709,1.033371,92.9743
+paper1,ocrreward_c6,ocr_rewarded,BIO SENSOR 7,BIO SENSOR 7,0.0,0.0,1,0.264246,1.026425,82.8564
+paper1,ocrreward_c6,ocr_rewarded,NOVA LAB,NOVA LAB,0.0,0.0,1,0.378181,1.037818,58.8525
+paper1,ocrreward_c6,ocr_rewarded,VISION STACK,VISION STACK,0.0,0.0,1,0.334176,1.033418,73.7816
+paper1,ocrreward_c6,ocr_rewarded,CLIMATE REPORT,CLIMATE REPORT,0.0,0.0,1,0.300267,1.030027,83.1843
+paper1,ocrreward_c6,ocr_rewarded,ROBOTICS REVIEW,ROBOTICS REVIEW,0.0,0.0,1,0.304339,1.030434,110.6817
+paper1,ocrreward_c6,ocr_rewarded,EDGE CACHE,EDGE CACHE,0.0,0.0,1,0.283029,1.028303,94.9082
+paper1,ocrreward_c6,ocr_rewarded,GRAPH MEMORY,GRAPH MEMORY,0.0,0.0,1,0.383926,1.038393,127.8257
+paper1,ocrreward_c6,ocr_rewarded,CHUNKING STUDY,CHUNKING STUDY,0.0,0.0,1,0.314885,1.031488,126.7505
+paper1,ocrreward_c6,ocr_rewarded,OCR REWARD LOOP,OCR REWARD LOOP,0.0,0.0,1,0.321431,1.032143,313.5907
+paper1,ocrreward_c6,ocr_rewarded,GLYPH CONTROL,GLYPH CONTROL,0.0,0.0,1,0.292088,1.029209,305.3704
+paper1,ocrreward_c6,ocr_rewarded,TEXT DIFFUSER,TEXT DIFFUSER,0.0,0.0,1,0.284788,1.028479,321.2864
+paper1,ocrreward_c6,ocr_rewarded,MARIO BENCH,MARIO BENCH,0.0,0.0,1,0.320867,1.032087,289.6508
+paper1,ocrreward_c6,ocr_rewarded,WORD ERROR RATE,WORD ERROR RATE,0.0,0.0,1,0.350707,1.035071,389.2256
+paper1,ocrreward_c6,ocr_rewarded,CHAR ERROR RATE,CHAR ERROR RATE,0.0,0.0,1,0.34238,1.034238,366.8385
+paper1,ocrreward_c6,ocr_rewarded,LAYOUT PRIOR,LAYOUT PRIOR,0.0,0.0,1,0.316524,1.031652,336.9227
+paper1,ocrreward_c6,ocr_rewarded,BYTE LEVEL TOKEN,BYTE LEVEL TOKEN,0.0,0.0,1,0.278657,1.027866,405.9087
+paper1,ocrreward_c6,ocr_rewarded,HIGH FIDELITY,HIGH FIDELITY,0.0,0.0,1,0.262326,1.026233,309.8467
+paper1,ocrreward_c6,ocr_rewarded,LATENT NOISE,LATENT NOISE,0.0,0.0,1,0.275438,1.027544,263.2672
+paper1,ocrreward_c6,ocr_rewarded,CURATED DATASET,CURATED DATASET,0.0,0.0,1,0.331179,1.033118,366.3378

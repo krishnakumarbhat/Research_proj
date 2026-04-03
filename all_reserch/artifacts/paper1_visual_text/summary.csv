@@ -1,0 +1,11 @@
+paper,config_id,algorithm,mean_cer,mean_wer,exact_match_rate,mean_confidence,mean_runtime_ms,details
+paper1,layout_robust,layout_guided,0.0,0.0,1.0,0.162861,4.4959,"{'blur_radius': 0.9, 'noise_level': 0.04, 'jitter': 1}"
+paper1,layout_balanced,layout_guided,0.0,0.0,1.0,0.197654,4.5476,"{'blur_radius': 0.7, 'noise_level': 0.03, 'jitter': 1}"
+paper1,charaware_x3,char_aware,0.0,0.0,1.0,0.309141,4.6651,"{'supersample': 3, 'blur_radius': 0.2, 'noise_level': 0.01, 'jitter': 0}"
+paper1,charaware_x4,char_aware,0.0,0.0,1.0,0.330187,4.9224,"{'supersample': 4, 'blur_radius': 0.1, 'noise_level': 0.01, 'jitter': 0}"
+paper1,layout_mild,layout_guided,0.0,0.0,1.0,0.23625,5.1186,"{'blur_radius': 0.4, 'noise_level': 0.02, 'jitter': 1}"
+paper1,ocrreward_c3,ocr_rewarded,0.0,0.0,1.0,0.284813,43.8275,"{'supersample': 3, 'blur_radius': 0.2, 'noise_level': 0.02, 'candidates': 3}"
+paper1,ocrreward_c6,ocr_rewarded,0.0,0.0,1.0,0.313657,226.003,"{'supersample': 4, 'blur_radius': 0.2, 'noise_level': 0.02, 'candidates': 6}"
+paper1,baseline_ds10_noise012,baseline_texture,0.904035,1.0,0.0,0.04199,3.5638,"{'downsample_factor': 10, 'blur_radius': 1.8, 'noise_level': 0.12, 'jitter': 3}"
+paper1,baseline_ds6_noise006,baseline_texture,0.904035,1.05,0.0,0.040313,3.8949,"{'downsample_factor': 6, 'blur_radius': 1.2, 'noise_level': 0.06, 'jitter': 2}"
+paper1,baseline_ds8_noise010,baseline_texture,0.904035,1.0,0.0,0.041224,4.2076,"{'downsample_factor': 8, 'blur_radius': 1.5, 'noise_level': 0.1, 'jitter': 3}"

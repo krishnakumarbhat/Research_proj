@@ -1,0 +1,73 @@
+paper,phase,algorithm,feature_model,params,top1,top3,mrr,retrievable_rate,redundancy_ratio,chunk_count,avg_chunk_tokens,objective
+paper3,validation,late_chunking_proxy,char_tfidf,{'max_tokens': 52},0.37931,0.62069,0.488506,0.793103,1.0,36,35.5833,2.004229
+paper3,validation,fixed_no_overlap,char_tfidf,{'token_limit': 40},0.344828,0.551724,0.431034,0.862069,1.0,36,35.5833,1.946759
+paper3,validation,sentence_boundary,char_tfidf,{'max_tokens': 52},0.344828,0.482759,0.402299,0.793103,1.0,36,35.5833,1.849058
+paper3,validation,late_chunking_proxy,word_tfidf,{'max_tokens': 52},0.310345,0.586207,0.442529,0.793103,1.0,36,35.5833,1.820322
+paper3,validation,late_chunking_proxy,lsa,{'max_tokens': 52},0.310345,0.586207,0.442529,0.793103,1.0,36,35.5833,1.820322
+paper3,validation,late_chunking_proxy,char_tfidf,{'max_tokens': 40},0.241379,0.827586,0.494253,0.862069,1.0,36,35.5833,1.80308
+paper3,validation,late_chunking_proxy,char_tfidf,{'max_tokens': 28},0.310345,0.62069,0.448276,0.793103,1.0,62,20.6613,1.800069
+paper3,validation,late_chunking_proxy,word_tfidf,{'max_tokens': 28},0.275862,0.517241,0.390805,0.793103,1.0,62,20.6613,1.673632
+paper3,validation,sentence_boundary,word_tfidf,{'max_tokens': 52},0.275862,0.448276,0.356322,0.793103,1.0,36,35.5833,1.665149
+paper3,validation,sentence_boundary,lsa,{'max_tokens': 52},0.275862,0.448276,0.356322,0.793103,1.0,36,35.5833,1.665149
+paper3,validation,fixed_no_overlap,word_tfidf,{'token_limit': 40},0.241379,0.448276,0.333333,0.862069,1.0,36,35.5833,1.64216
+paper3,validation,fixed_no_overlap,lsa,{'token_limit': 40},0.241379,0.448276,0.333333,0.862069,1.0,36,35.5833,1.64216
+paper3,validation,late_chunking_proxy,lsa,{'max_tokens': 28},0.241379,0.655172,0.425287,0.793103,1.0,62,20.6613,1.639148
+paper3,validation,late_chunking_proxy,word_tfidf,{'max_tokens': 40},0.172414,0.793103,0.442529,0.862069,1.0,36,35.5833,1.613426
+paper3,validation,late_chunking_proxy,lsa,{'max_tokens': 40},0.172414,0.793103,0.442529,0.862069,1.0,36,35.5833,1.613426
+paper3,validation,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",0.241379,0.448276,0.316092,0.862069,1.302888,60,27.8167,1.464619
+paper3,validation,fixed_no_overlap,lsa,{'token_limit': 28},0.172414,0.482759,0.298851,0.862069,1.0,48,26.6875,1.457748
+paper3,validation,sentence_boundary,char_tfidf,{'max_tokens': 40},0.172414,0.37931,0.264368,0.862069,1.0,36,35.5833,1.435265
+paper3,validation,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",0.241379,0.344828,0.281609,0.862069,1.302888,60,27.8167,1.430136
+paper3,validation,fixed_no_overlap,word_tfidf,{'token_limit': 28},0.172414,0.37931,0.270115,0.862069,1.0,48,26.6875,1.429012
+paper3,validation,sentence_boundary,word_tfidf,{'max_tokens': 40},0.172414,0.310345,0.241379,0.862069,1.0,36,35.5833,1.412276
+paper3,validation,sentence_boundary,lsa,{'max_tokens': 40},0.172414,0.310345,0.241379,0.862069,1.0,36,35.5833,1.412276
+paper3,validation,fixed_no_overlap,char_tfidf,{'token_limit': 28},0.172414,0.310345,0.241379,0.862069,1.0,48,26.6875,1.400276
+paper3,validation,sentence_boundary,lsa,{'max_tokens': 28},0.206897,0.241379,0.224138,0.793103,1.0,62,20.6613,1.369035
+paper3,validation,fixed_overlap,char_tfidf,"{'token_limit': 40, 'overlap': 12}",0.172414,0.482759,0.310345,0.862069,1.337237,48,35.6875,1.317485
+paper3,validation,fixed_overlap,word_tfidf,"{'token_limit': 40, 'overlap': 12}",0.172414,0.517241,0.304598,0.862069,1.337237,48,35.6875,1.311738
+paper3,validation,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",0.172414,0.482759,0.287356,0.862069,1.337237,48,35.6875,1.294496
+paper3,validation,fixed_overlap,lsa,"{'token_limit': 28, 'overlap': 8}",0.172414,0.448276,0.275862,0.862069,1.302888,60,27.8167,1.286459
+paper3,validation,sentence_boundary,word_tfidf,{'max_tokens': 28},0.172414,0.241379,0.195402,0.793103,1.0,62,20.6613,1.271333
+paper3,validation,sentence_boundary,char_tfidf,{'max_tokens': 28},0.137931,0.241379,0.189655,0.793103,1.0,62,20.6613,1.19662
+paper3,validation,fixed_no_overlap,word_tfidf,{'token_limit': 52},0.0,0.448276,0.224138,0.862069,1.0,36,35.5833,1.050207
+paper3,validation,fixed_no_overlap,char_tfidf,{'token_limit': 52},0.0,0.448276,0.224138,0.862069,1.0,36,35.5833,1.050207
+paper3,validation,fixed_no_overlap,lsa,{'token_limit': 52},0.0,0.448276,0.224138,0.862069,1.0,36,35.5833,1.050207
+paper3,validation,fixed_overlap,char_tfidf,"{'token_limit': 52, 'overlap': 16}",0.0,0.517241,0.206897,0.862069,1.299766,36,46.25,0.898071
+paper3,validation,fixed_overlap,word_tfidf,"{'token_limit': 52, 'overlap': 16}",0.0,0.482759,0.189655,0.862069,1.299766,36,46.25,0.880829
+paper3,validation,fixed_overlap,lsa,"{'token_limit': 52, 'overlap': 16}",0.0,0.482759,0.189655,0.862069,1.299766,36,46.25,0.880829
+paper3,validation,graph_rag,word_tfidf,{'hops': 1},0.172414,0.448276,0.264368,1.0,3.465262,120,36.9917,0.379828
+paper3,validation,graph_rag,char_tfidf,{'hops': 1},0.172414,0.448276,0.264368,1.0,3.465262,120,36.9917,0.379828
+paper3,validation,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",0.0,0.172414,0.068966,0.413793,1.0,120,10.675,0.362759
+paper3,validation,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.26}",0.0,0.172414,0.068966,0.413793,1.0,120,10.675,0.362759
+paper3,validation,semantic_boundary,lsa,"{'max_tokens': 40, 'threshold': 0.18}",0.0,0.172414,0.068966,0.413793,1.0,120,10.675,0.362759
+paper3,validation,semantic_boundary,lsa,"{'max_tokens': 40, 'threshold': 0.26}",0.0,0.172414,0.068966,0.413793,1.0,120,10.675,0.362759
+paper3,validation,semantic_boundary,lsa,"{'max_tokens': 52, 'threshold': 0.18}",0.0,0.172414,0.068966,0.413793,1.0,120,10.675,0.362759
+paper3,validation,semantic_boundary,lsa,"{'max_tokens': 52, 'threshold': 0.26}",0.0,0.172414,0.068966,0.413793,1.0,120,10.675,0.362759
+paper3,validation,graph_rag,lsa,{'hops': 1},0.172414,0.344828,0.229885,1.0,3.465262,120,36.9917,0.345345
+paper3,validation,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.1}",0.0,0.068966,0.022989,0.413793,1.0,109,11.7523,0.327782
+paper3,validation,semantic_boundary,lsa,"{'max_tokens': 40, 'threshold': 0.1}",0.0,0.068966,0.022989,0.413793,1.0,109,11.7523,0.327782
+paper3,validation,semantic_boundary,lsa,"{'max_tokens': 52, 'threshold': 0.1}",0.0,0.068966,0.022989,0.413793,1.0,109,11.7523,0.327782
+paper3,validation,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",0.0,0.034483,0.011494,0.413793,1.0,109,11.7523,0.316287
+paper3,validation,semantic_boundary,word_tfidf,"{'max_tokens': 40, 'threshold': 0.1}",0.0,0.034483,0.011494,0.413793,1.0,109,11.7523,0.316287
+paper3,validation,semantic_boundary,word_tfidf,"{'max_tokens': 52, 'threshold': 0.1}",0.0,0.034483,0.011494,0.413793,1.0,109,11.7523,0.316287
+paper3,validation,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.18}",0.0,0.034483,0.011494,0.413793,1.0,120,10.675,0.305287
+paper3,validation,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.26}",0.0,0.034483,0.011494,0.413793,1.0,120,10.675,0.305287
+paper3,validation,semantic_boundary,word_tfidf,"{'max_tokens': 40, 'threshold': 0.18}",0.0,0.034483,0.011494,0.413793,1.0,120,10.675,0.305287
+paper3,validation,semantic_boundary,word_tfidf,"{'max_tokens': 40, 'threshold': 0.26}",0.0,0.034483,0.011494,0.413793,1.0,120,10.675,0.305287
+paper3,validation,semantic_boundary,word_tfidf,"{'max_tokens': 52, 'threshold': 0.18}",0.0,0.034483,0.011494,0.413793,1.0,120,10.675,0.305287
+paper3,validation,semantic_boundary,word_tfidf,"{'max_tokens': 52, 'threshold': 0.26}",0.0,0.034483,0.011494,0.413793,1.0,120,10.675,0.305287
+paper3,validation,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",0.0,0.0,0.0,0.413793,1.0,109,11.7523,0.304793
+paper3,validation,semantic_boundary,char_tfidf,"{'max_tokens': 40, 'threshold': 0.1}",0.0,0.0,0.0,0.413793,1.0,109,11.7523,0.304793
+paper3,validation,semantic_boundary,char_tfidf,"{'max_tokens': 52, 'threshold': 0.1}",0.0,0.0,0.0,0.413793,1.0,109,11.7523,0.304793
+paper3,validation,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.18}",0.0,0.0,0.0,0.413793,1.0,120,10.675,0.293793
+paper3,validation,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.26}",0.0,0.0,0.0,0.413793,1.0,120,10.675,0.293793
+paper3,validation,semantic_boundary,char_tfidf,"{'max_tokens': 40, 'threshold': 0.18}",0.0,0.0,0.0,0.413793,1.0,120,10.675,0.293793
+paper3,validation,semantic_boundary,char_tfidf,"{'max_tokens': 40, 'threshold': 0.26}",0.0,0.0,0.0,0.413793,1.0,120,10.675,0.293793
+paper3,validation,semantic_boundary,char_tfidf,"{'max_tokens': 52, 'threshold': 0.18}",0.0,0.0,0.0,0.413793,1.0,120,10.675,0.293793
+paper3,validation,semantic_boundary,char_tfidf,"{'max_tokens': 52, 'threshold': 0.26}",0.0,0.0,0.0,0.413793,1.0,120,10.675,0.293793
+paper3,validation,graph_rag,char_tfidf,{'hops': 3},0.034483,0.034483,0.034483,1.0,3.705699,60,79.1167,-0.174116
+paper3,validation,graph_rag,word_tfidf,{'hops': 3},0.0,0.0,0.0,1.0,3.705699,60,79.1167,-0.277565
+paper3,validation,graph_rag,lsa,{'hops': 3},0.0,0.0,0.0,1.0,3.705699,60,79.1167,-0.277565
+paper3,validation,graph_rag,char_tfidf,{'hops': 2},0.034483,0.172414,0.097701,1.0,5.455894,108,64.713,-0.946485
+paper3,validation,graph_rag,word_tfidf,{'hops': 2},0.0,0.172414,0.086207,1.0,5.455894,108,64.713,-1.026945
+paper3,validation,graph_rag,lsa,{'hops': 2},0.0,0.172414,0.08046,1.0,5.455894,108,64.713,-1.032692

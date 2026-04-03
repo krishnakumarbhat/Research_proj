@@ -1,0 +1,19 @@
+paper,phase,algorithm,feature_model,params,top1,top3,mrr,retrievable_rate,redundancy_ratio,chunk_count,avg_chunk_tokens,objective
+paper3,test,late_chunking_proxy,char_tfidf,{'max_tokens': 52},0.309091,0.509091,0.40303,0.781818,1.0,36,35.5833,1.76703
+paper3,test,fixed_no_overlap,char_tfidf,{'token_limit': 40},0.272727,0.454545,0.357576,0.854545,1.0,36,35.5833,1.721575
+paper3,test,sentence_boundary,char_tfidf,{'max_tokens': 52},0.272727,0.418182,0.336364,0.781818,1.0,36,35.5833,1.627636
+paper3,test,late_chunking_proxy,word_tfidf,{'max_tokens': 52},0.236364,0.490909,0.357576,0.781818,1.0,36,35.5833,1.576122
+paper3,test,late_chunking_proxy,lsa,{'max_tokens': 52},0.236364,0.490909,0.357576,0.781818,1.0,36,35.5833,1.576122
+paper3,test,fixed_no_overlap,word_tfidf,{'token_limit': 40},0.2,0.436364,0.30303,0.854545,1.0,36,35.5833,1.521575
+paper3,test,fixed_no_overlap,lsa,{'token_limit': 40},0.2,0.436364,0.30303,0.854545,1.0,36,35.5833,1.521575
+paper3,test,sentence_boundary,word_tfidf,{'max_tokens': 52},0.2,0.418182,0.30303,0.781818,1.0,36,35.5833,1.448848
+paper3,test,sentence_boundary,lsa,{'max_tokens': 52},0.2,0.418182,0.30303,0.781818,1.0,36,35.5833,1.448848
+paper3,test,fixed_overlap,char_tfidf,"{'token_limit': 28, 'overlap': 8}",0.181818,0.363636,0.260606,0.854545,1.302888,60,27.8167,1.282487
+paper3,test,fixed_overlap,word_tfidf,"{'token_limit': 28, 'overlap': 8}",0.163636,0.272727,0.20303,0.854545,1.302888,60,27.8167,1.188547
+paper3,test,fixed_overlap,lsa,"{'token_limit': 40, 'overlap': 12}",0.127273,0.418182,0.236364,0.854545,1.337237,48,35.6875,1.145698
+paper3,test,semantic_boundary,word_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",0.0,0.072727,0.024242,0.436364,1.0,109,11.7523,0.351606
+paper3,test,semantic_boundary,char_tfidf,"{'max_tokens': 28, 'threshold': 0.1}",0.0,0.072727,0.024242,0.436364,1.0,109,11.7523,0.351606
+paper3,test,semantic_boundary,lsa,"{'max_tokens': 28, 'threshold': 0.18}",0.0,0.018182,0.006061,0.436364,1.0,120,10.675,0.322425
+paper3,test,graph_rag,char_tfidf,{'hops': 1},0.127273,0.454545,0.239394,1.0,3.465262,120,36.9917,0.264572
+paper3,test,graph_rag,word_tfidf,{'hops': 1},0.127273,0.436364,0.230303,1.0,3.465262,120,36.9917,0.255481
+paper3,test,graph_rag,lsa,{'hops': 1},0.127273,0.309091,0.190909,1.0,3.465262,120,36.9917,0.216087

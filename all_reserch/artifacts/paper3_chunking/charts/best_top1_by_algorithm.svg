@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="316" viewBox="0 0 960 316" role="img" aria-label="Paper 3: Best held-out Top-1 by algorithm">
+<style>
+.title { font: 700 22px sans-serif; fill: #172033; }
+.axis { font: 12px sans-serif; fill: #4b5563; }
+.label { font: 13px sans-serif; fill: #172033; }
+.value { font: 12px sans-serif; fill: #172033; }
+.grid { stroke: #d6dce7; stroke-width: 1; }
+.baseline { stroke: #5b6472; stroke-width: 1.5; }
+</style>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text class="title" x="28" y="34">Paper 3: Best held-out Top-1 by algorithm</text>
+<line class="grid" x1="280.00" y1="64" x2="280.00" y2="260"/>
+<text class="axis" x="280.00" y="280" text-anchor="middle">0.000</text>
+<line class="grid" x1="426.00" y1="64" x2="426.00" y2="260"/>
+<text class="axis" x="426.00" y="280" text-anchor="middle">0.077</text>
+<line class="grid" x1="572.00" y1="64" x2="572.00" y2="260"/>
+<text class="axis" x="572.00" y="280" text-anchor="middle">0.155</text>
+<line class="grid" x1="718.00" y1="64" x2="718.00" y2="260"/>
+<text class="axis" x="718.00" y="280" text-anchor="middle">0.232</text>
+<line class="grid" x1="864.00" y1="64" x2="864.00" y2="260"/>
+<text class="axis" x="864.00" y="280" text-anchor="middle">0.309</text>
+<line class="baseline" x1="280" y1="64" x2="280" y2="260"/>
+<text class="axis" x="572.00" y="298" text-anchor="middle">Top-1 accuracy</text>
+<text class="label" x="268" y="88.00" text-anchor="end">late_chunking_proxy (char_tfidf)</text>
+<rect x="280" y="72" width="584.00" height="18" fill="#f28e2b" rx="4" ry="4"/>
+<text class="value" x="872.00" y="88.00">0.3091</text>
+<text class="label" x="268" y="118.00" text-anchor="end">fixed_no_overlap (char_tfidf)</text>
+<rect x="280" y="102" width="515.29" height="18" fill="#4c78a8" rx="4" ry="4"/>
+<text class="value" x="803.29" y="118.00">0.2727</text>
+<text class="label" x="268" y="148.00" text-anchor="end">sentence_boundary (char_tfidf)</text>
+<rect x="280" y="132" width="515.29" height="18" fill="#59a14f" rx="4" ry="4"/>
+<text class="value" x="803.29" y="148.00">0.2727</text>
+<text class="label" x="268" y="178.00" text-anchor="end">fixed_overlap (char_tfidf)</text>
+<rect x="280" y="162" width="343.53" height="18" fill="#9c755f" rx="4" ry="4"/>
+<text class="value" x="631.53" y="178.00">0.1818</text>
+<text class="label" x="268" y="208.00" text-anchor="end">graph_rag (char_tfidf)</text>
+<rect x="280" y="192" width="240.47" height="18" fill="#b07aa1" rx="4" ry="4"/>
+<text class="value" x="528.47" y="208.00">0.1273</text>
+<text class="label" x="268" y="238.00" text-anchor="end">semantic_boundary (word_tfidf)</text>
+<rect x="280" y="222" width="0.00" height="18" fill="#e15759" rx="4" ry="4"/>
+<text class="value" x="288.00" y="238.00">0.0000</text>
+</svg>

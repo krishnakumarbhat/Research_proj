@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="286" viewBox="0 0 960 286" role="img" aria-label="Paper 2: Best held-out Top-1 by algorithm">
+<style>
+.title { font: 700 22px sans-serif; fill: #172033; }
+.axis { font: 12px sans-serif; fill: #4b5563; }
+.label { font: 13px sans-serif; fill: #172033; }
+.value { font: 12px sans-serif; fill: #172033; }
+.grid { stroke: #d6dce7; stroke-width: 1; }
+.baseline { stroke: #5b6472; stroke-width: 1.5; }
+</style>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text class="title" x="28" y="34">Paper 2: Best held-out Top-1 by algorithm</text>
+<line class="grid" x1="280.00" y1="64" x2="280.00" y2="230"/>
+<text class="axis" x="280.00" y="250" text-anchor="middle">0.000</text>
+<line class="grid" x1="426.00" y1="64" x2="426.00" y2="230"/>
+<text class="axis" x="426.00" y="250" text-anchor="middle">0.118</text>
+<line class="grid" x1="572.00" y1="64" x2="572.00" y2="230"/>
+<text class="axis" x="572.00" y="250" text-anchor="middle">0.235</text>
+<line class="grid" x1="718.00" y1="64" x2="718.00" y2="230"/>
+<text class="axis" x="718.00" y="250" text-anchor="middle">0.353</text>
+<line class="grid" x1="864.00" y1="64" x2="864.00" y2="230"/>
+<text class="axis" x="864.00" y="250" text-anchor="middle">0.470</text>
+<line class="baseline" x1="280" y1="64" x2="280" y2="230"/>
+<text class="axis" x="572.00" y="268" text-anchor="middle">Top-1 accuracy</text>
+<text class="label" x="268" y="88.00" text-anchor="end">graph_assisted (lsa)</text>
+<rect x="280" y="72" width="584.00" height="18" fill="#b07aa1" rx="4" ry="4"/>
+<text class="value" x="872.00" y="88.00">0.4701</text>
+<text class="label" x="268" y="118.00" text-anchor="end">semantic_cache (word_tfidf)</text>
+<rect x="280" y="102" width="516.75" height="18" fill="#59a14f" rx="4" ry="4"/>
+<text class="value" x="804.75" y="118.00">0.4160</text>
+<text class="label" x="268" y="148.00" text-anchor="end">vanilla (word_tfidf)</text>
+<rect x="280" y="132" width="509.67" height="18" fill="#4c78a8" rx="4" ry="4"/>
+<text class="value" x="797.67" y="148.00">0.4103</text>
+<text class="label" x="268" y="178.00" text-anchor="end">frequency_decay (lsa)</text>
+<rect x="280" y="162" width="499.05" height="18" fill="#e15759" rx="4" ry="4"/>
+<text class="value" x="787.05" y="178.00">0.4017</text>
+<text class="label" x="268" y="208.00" text-anchor="end">frequency_weighted (lsa)</text>
+<rect x="280" y="192" width="481.36" height="18" fill="#f28e2b" rx="4" ry="4"/>
+<text class="value" x="769.36" y="208.00">0.3875</text>
+</svg>

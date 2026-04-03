@@ -1,0 +1,42 @@
+{
+  "paper": "paper1",
+  "quick": false,
+  "seed": 42,
+  "phrases": [
+    "LAUNCH TUESDAY",
+    "BIO SENSOR 7",
+    "NOVA LAB",
+    "VISION STACK",
+    "CLIMATE REPORT",
+    "ROBOTICS REVIEW",
+    "EDGE CACHE",
+    "GRAPH MEMORY",
+    "CHUNKING STUDY",
+    "OCR REWARD LOOP",
+    "GLYPH CONTROL",
+    "TEXT DIFFUSER",
+    "MARIO BENCH",
+    "WORD ERROR RATE",
+    "CHAR ERROR RATE",
+    "LAYOUT PRIOR",
+    "BYTE LEVEL TOKEN",
+    "HIGH FIDELITY",
+    "LATENT NOISE",
+    "CURATED DATASET"
+  ],
+  "best_config": {
+    "paper": "paper1",
+    "config_id": "layout_robust",
+    "algorithm": "layout_guided",
+    "mean_cer": 0.0,
+    "mean_wer": 0.0,
+    "exact_match_rate": 1.0,
+    "mean_confidence": 0.162861,
+    "mean_runtime_ms": 4.4959,
+    "details": {
+      "blur_radius": 0.9,
+      "noise_level": 0.04,
+      "jitter": 1
+    }
+  }
+}

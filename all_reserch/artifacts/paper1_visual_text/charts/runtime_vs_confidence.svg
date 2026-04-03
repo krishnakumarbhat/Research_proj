@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="620" viewBox="0 0 960 620" role="img" aria-label="Paper 1: Runtime versus OCR confidence">
+<style>
+.title { font: 700 22px sans-serif; fill: #172033; }
+.axis { font: 12px sans-serif; fill: #4b5563; }
+.label { font: 12px sans-serif; fill: #172033; }
+.grid { stroke: #d6dce7; stroke-width: 1; }
+.baseline { stroke: #5b6472; stroke-width: 1.5; }
+</style>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text class="title" x="28" y="34">Paper 1: Runtime versus OCR confidence</text>
+<line class="grid" x1="88.00" y1="72" x2="88.00" y2="538"/>
+<text class="axis" x="88.00" y="566" text-anchor="middle">-7.56</text>
+<line class="grid" x1="261.00" y1="72" x2="261.00" y2="538"/>
+<text class="axis" x="261.00" y="566" text-anchor="middle">55.28</text>
+<line class="grid" x1="434.00" y1="72" x2="434.00" y2="538"/>
+<text class="axis" x="434.00" y="566" text-anchor="middle">118.12</text>
+<line class="grid" x1="607.00" y1="72" x2="607.00" y2="538"/>
+<text class="axis" x="607.00" y="566" text-anchor="middle">180.96</text>
+<line class="grid" x1="780.00" y1="72" x2="780.00" y2="538"/>
+<text class="axis" x="780.00" y="566" text-anchor="middle">243.80</text>
+<line class="grid" x1="88" y1="538.00" x2="780" y2="538.00"/>
+<text class="axis" x="78" y="542.00" text-anchor="end">0.017</text>
+<line class="grid" x1="88" y1="421.50" x2="780" y2="421.50"/>
+<text class="axis" x="78" y="425.50" text-anchor="end">0.103</text>
+<line class="grid" x1="88" y1="305.00" x2="780" y2="305.00"/>
+<text class="axis" x="78" y="309.00" text-anchor="end">0.188</text>
+<line class="grid" x1="88" y1="188.50" x2="780" y2="188.50"/>
+<text class="axis" x="78" y="192.50" text-anchor="end">0.274</text>
+<line class="grid" x1="88" y1="72.00" x2="780" y2="72.00"/>
+<text class="axis" x="78" y="76.00" text-anchor="end">0.359</text>
+<line class="baseline" x1="88" y1="538" x2="780" y2="538"/>
+<line class="baseline" x1="88" y1="72" x2="88" y2="538"/>
+<text class="axis" x="434.00" y="600" text-anchor="middle">Mean runtime (ms)</text>
+<text class="axis" x="26" y="305.00" text-anchor="middle" transform="rotate(-90 26 305.00)">Mean OCR confidence</text>
+<circle cx="121.19" cy="339.45" r="5.5" fill="#4c78a8" opacity="0.9"/>
+<text class="label" x="129.19" y="331.45">layout_robust</text>
+<circle cx="121.33" cy="292.05" r="5.5" fill="#4c78a8" opacity="0.9"/>
+<text class="label" x="129.33" y="284.05">layout_balanced</text>
+<circle cx="121.65" cy="140.16" r="5.5" fill="#59a14f" opacity="0.9"/>
+<text class="label" x="129.65" y="132.16">charaware_x3</text>
+<circle cx="122.36" cy="111.49" r="5.5" fill="#59a14f" opacity="0.9"/>
+<text class="label" x="130.36" y="103.49">charaware_x4</text>
+<circle cx="122.90" cy="239.47" r="5.5" fill="#4c78a8" opacity="0.9"/>
+<text class="label" x="130.90" y="231.47">layout_mild</text>
+<circle cx="229.47" cy="173.31" r="5.5" fill="#f28e2b" opacity="0.9"/>
+<text class="label" x="237.47" y="165.31">ocrreward_c3</text>
+<circle cx="731.01" cy="134.01" r="5.5" fill="#f28e2b" opacity="0.9"/>
+<text class="label" x="739.01" y="126.01">ocrreward_c6</text>
+<circle cx="118.62" cy="504.12" r="5.5" fill="#9c755f" opacity="0.9"/>
+<text class="label" x="126.62" y="496.12">baseline_ds10_noise012</text>
+<circle cx="119.53" cy="506.41" r="5.5" fill="#9c755f" opacity="0.9"/>
+<text class="label" x="127.53" y="498.41">baseline_ds6_noise006</text>
+<circle cx="120.39" cy="505.17" r="5.5" fill="#9c755f" opacity="0.9"/>
+<text class="label" x="128.39" y="497.17">baseline_ds8_noise010</text>
+</svg>

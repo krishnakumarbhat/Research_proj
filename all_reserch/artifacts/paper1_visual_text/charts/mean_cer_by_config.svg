@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="436" viewBox="0 0 960 436" role="img" aria-label="Paper 1: Mean CER by configuration">
+<style>
+.title { font: 700 22px sans-serif; fill: #172033; }
+.axis { font: 12px sans-serif; fill: #4b5563; }
+.label { font: 13px sans-serif; fill: #172033; }
+.value { font: 12px sans-serif; fill: #172033; }
+.grid { stroke: #d6dce7; stroke-width: 1; }
+.baseline { stroke: #5b6472; stroke-width: 1.5; }
+</style>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text class="title" x="28" y="34">Paper 1: Mean CER by configuration</text>
+<line class="grid" x1="280.00" y1="64" x2="280.00" y2="380"/>
+<text class="axis" x="280.00" y="400" text-anchor="middle">0.000</text>
+<line class="grid" x1="426.00" y1="64" x2="426.00" y2="380"/>
+<text class="axis" x="426.00" y="400" text-anchor="middle">0.226</text>
+<line class="grid" x1="572.00" y1="64" x2="572.00" y2="380"/>
+<text class="axis" x="572.00" y="400" text-anchor="middle">0.452</text>
+<line class="grid" x1="718.00" y1="64" x2="718.00" y2="380"/>
+<text class="axis" x="718.00" y="400" text-anchor="middle">0.678</text>
+<line class="grid" x1="864.00" y1="64" x2="864.00" y2="380"/>
+<text class="axis" x="864.00" y="400" text-anchor="middle">0.904</text>
+<line class="baseline" x1="280" y1="64" x2="280" y2="380"/>
+<text class="axis" x="572.00" y="418" text-anchor="middle">Mean character error rate</text>
+<text class="label" x="268" y="88.00" text-anchor="end">layout_robust</text>
+<rect x="280" y="72" width="0.00" height="18" fill="#4c78a8" rx="4" ry="4"/>
+<text class="value" x="288.00" y="88.00">0.0000</text>
+<text class="label" x="268" y="118.00" text-anchor="end">layout_balanced</text>
+<rect x="280" y="102" width="0.00" height="18" fill="#4c78a8" rx="4" ry="4"/>
+<text class="value" x="288.00" y="118.00">0.0000</text>
+<text class="label" x="268" y="148.00" text-anchor="end">charaware_x3</text>
+<rect x="280" y="132" width="0.00" height="18" fill="#59a14f" rx="4" ry="4"/>
+<text class="value" x="288.00" y="148.00">0.0000</text>
+<text class="label" x="268" y="178.00" text-anchor="end">charaware_x4</text>
+<rect x="280" y="162" width="0.00" height="18" fill="#59a14f" rx="4" ry="4"/>
+<text class="value" x="288.00" y="178.00">0.0000</text>
+<text class="label" x="268" y="208.00" text-anchor="end">layout_mild</text>
+<rect x="280" y="192" width="0.00" height="18" fill="#4c78a8" rx="4" ry="4"/>
+<text class="value" x="288.00" y="208.00">0.0000</text>
+<text class="label" x="268" y="238.00" text-anchor="end">ocrreward_c3</text>
+<rect x="280" y="222" width="0.00" height="18" fill="#f28e2b" rx="4" ry="4"/>
+<text class="value" x="288.00" y="238.00">0.0000</text>
+<text class="label" x="268" y="268.00" text-anchor="end">ocrreward_c6</text>
+<rect x="280" y="252" width="0.00" height="18" fill="#f28e2b" rx="4" ry="4"/>
+<text class="value" x="288.00" y="268.00">0.0000</text>
+<text class="label" x="268" y="298.00" text-anchor="end">baseline_ds10_noise012</text>
+<rect x="280" y="282" width="584.00" height="18" fill="#9c755f" rx="4" ry="4"/>
+<text class="value" x="872.00" y="298.00">0.9040</text>
+<text class="label" x="268" y="328.00" text-anchor="end">baseline_ds6_noise006</text>
+<rect x="280" y="312" width="584.00" height="18" fill="#9c755f" rx="4" ry="4"/>
+<text class="value" x="872.00" y="328.00">0.9040</text>
+<text class="label" x="268" y="358.00" text-anchor="end">baseline_ds8_noise010</text>
+<rect x="280" y="342" width="584.00" height="18" fill="#9c755f" rx="4" ry="4"/>
+<text class="value" x="872.00" y="358.00">0.9040</text>
+</svg>

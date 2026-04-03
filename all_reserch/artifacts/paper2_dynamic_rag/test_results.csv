@@ -1,0 +1,16 @@
+paper,phase,algorithm,feature_model,params,top1,top3,mrr,coverage_at_3,avg_candidates,avg_latency_ms,cache_hit_rate,objective
+paper2,test,graph_assisted,lsa,"{'alpha': 0.85, 'beta': 0.15, 'hot_k': 8, 'similarity_floor': 0.08, 'decay_lambda': 0.015, 'gamma': 0.4}",0.470085,0.817664,0.62963,0.762108,41.9259,2.0015,0.0,2.294364
+paper2,test,semantic_cache,word_tfidf,{'threshold': 0.78},0.415954,0.740741,0.554606,0.673789,11.6239,1.9941,0.757835,2.198583
+paper2,test,frequency_weighted,lsa,"{'alpha': 0.85, 'beta': 0.15, 'hot_k': 16, 'similarity_floor': 0.14}",0.387464,0.814815,0.571225,0.740741,42.8405,1.6653,0.0,2.049291
+paper2,test,semantic_cache,char_tfidf,{'threshold': 0.84},0.452991,0.598291,0.51567,0.502849,21.0598,2.2494,0.561254,2.015405
+paper2,test,frequency_decay,lsa,"{'alpha': 0.85, 'beta': 0.15, 'hot_k': 8, 'similarity_floor': 0.14, 'decay_lambda': 0.015}",0.401709,0.763533,0.558405,0.690883,41.8006,2.1995,0.0,2.014867
+paper2,test,vanilla,word_tfidf,{},0.410256,0.712251,0.537512,0.645299,48.0,1.1099,0.0,1.962703
+paper2,test,vanilla,char_tfidf,{},0.458689,0.618234,0.525641,0.518519,48.0,2.1746,0.0,1.918789
+paper2,test,frequency_weighted,word_tfidf,"{'alpha': 0.85, 'beta': 0.15, 'hot_k': 8, 'similarity_floor': 0.08}",0.350427,0.740741,0.518519,0.668091,41.8262,2.2734,0.0,1.849456
+paper2,test,frequency_weighted,char_tfidf,"{'alpha': 0.85, 'beta': 0.15, 'hot_k': 24, 'similarity_floor': 0.08}",0.376068,0.660969,0.505698,0.592593,43.9601,1.9504,0.0,1.811358
+paper2,test,frequency_decay,char_tfidf,"{'alpha': 0.85, 'beta': 0.15, 'hot_k': 8, 'similarity_floor': 0.14, 'decay_lambda': 0.005}",0.367521,0.660969,0.498575,0.589744,41.792,2.3032,0.0,1.785321
+paper2,test,frequency_decay,word_tfidf,"{'alpha': 0.85, 'beta': 0.15, 'hot_k': 8, 'similarity_floor': 0.08, 'decay_lambda': 0.005}",0.330484,0.720798,0.500475,0.650997,41.792,2.8311,0.0,1.773344
+paper2,test,semantic_cache,lsa,{'threshold': 0.78},0.239316,0.65812,0.433523,0.606838,6.5641,2.832,0.863248,1.680727
+paper2,test,vanilla,lsa,{},0.301994,0.678063,0.473409,0.598291,48.0,3.2218,0.0,1.630844
+paper2,test,graph_assisted,word_tfidf,"{'alpha': 0.75, 'beta': 0.15, 'hot_k': 8, 'similarity_floor': 0.08, 'decay_lambda': 0.005, 'gamma': 0.12}",0.307692,0.652422,0.456315,0.592593,42.0114,2.0216,0.0,1.62664
+paper2,test,graph_assisted,char_tfidf,"{'alpha': 0.85, 'beta': 0.15, 'hot_k': 8, 'similarity_floor': 0.08, 'decay_lambda': 0.005, 'gamma': 0.12}",0.31339,0.62963,0.45679,0.569801,41.9202,2.8511,0.0,1.614133

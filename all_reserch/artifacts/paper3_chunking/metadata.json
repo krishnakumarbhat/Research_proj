@@ -1,0 +1,23 @@
+{
+  "paper": "paper3",
+  "quick": false,
+  "document_count": 12,
+  "query_count": 84,
+  "best_test_config": {
+    "paper": "paper3",
+    "phase": "test",
+    "algorithm": "late_chunking_proxy",
+    "feature_model": "char_tfidf",
+    "params": {
+      "max_tokens": 52
+    },
+    "top1": 0.309091,
+    "top3": 0.509091,
+    "mrr": 0.40303,
+    "retrievable_rate": 0.781818,
+    "redundancy_ratio": 1.0,
+    "chunk_count": 36,
+    "avg_chunk_tokens": 35.5833,
+    "objective": 1.76703
+  }
+}
